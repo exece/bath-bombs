@@ -6,9 +6,6 @@ import { ShopContext } from "../context/shopContext";
 
 const HomePage = () => {
   const { fetchAllProducts, products } = useContext(ShopContext);
-  console.log(useContext(ShopContext));
-  console.log(fetchAllProducts);
-  console.log(products);
 
   useEffect(() => {
     fetchAllProducts();

@@ -5,6 +5,7 @@ import Cart from "./components/Cart";
 import HomePage from "./pages/HomePage";
 import ProductPage from "./pages/ProductPage";
 import NavMenu from "./components/NavMenu";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
             <HomePage />
           </Route>
         </Switch>
+        <Footer />
       </Router>
     </div>
   );
