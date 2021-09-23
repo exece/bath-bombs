@@ -1,4 +1,4 @@
 # bath-bombs
  
  Landing page for bath-bombs<br />
-![Screenshot of website](https://github.com/exece/bath-bombs/bathbombs_landing.jpg)
+![Screenshot of website](https://raw.githubusercontent.com/exece/bath-bombs/main/bathbombs_landing.jpg)
