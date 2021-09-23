@@ -1,10 +1,10 @@
 # bath-bombs # <br />
 
 ## Highlights ##
-*Checkout powered by Shopify and connected to store.
-*Functioning Cart Component (Add, Delete, Purchase).
-*react-router-dom.
-*Chakra UI.
+* Checkout powered by Shopify and connected to store.
+* Functioning Cart Component (Add, Delete, Purchase).
+* react-router-dom.
+* Chakra UI.
 
 
 
