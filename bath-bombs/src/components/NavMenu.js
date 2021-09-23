@@ -43,7 +43,7 @@ const NavMenu = () => {
               </VStack>
             </DrawerBody>
             <DrawerFooter textAlign="center">
-              <Text w="100%">© Copyright www.workingwithshopify.com</Text>
+              <Text w="100%">© Copyright www.99BathBombs.com</Text>
             </DrawerFooter>
           </DrawerContent>
         </DrawerOverlay>

@@ -20,7 +20,7 @@ const Footer = () => {
       </Grid>
       <Box>
         <Text textAlign="center" color="white" w="100%" borderTop="1px solid white" p="1rem">
-          © Copyright www.workingwithshopify.com
+          © Copyright www.99BathBombs.com
         </Text>
       </Box>
     </Box>

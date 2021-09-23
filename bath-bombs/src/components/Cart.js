@@ -101,7 +101,7 @@ const Cart = () => {
               )}
             </DrawerBody>
             <DrawerFooter>
-              <Button w="100%">
+              <Button w="100%" style={ checkout.lineItems?.length ? { backgroundColor: "#FF38BD"} : {}}>
                 <Link w="100%" href={checkout?.webUrl}>
                   Checkout
                 </Link>

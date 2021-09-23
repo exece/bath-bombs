@@ -7,6 +7,7 @@ import ProductPage from "./pages/ProductPage";
 import NavMenu from "./components/NavMenu";
 import Footer from "./components/Footer";
 
+
 function App() {
   return (
     <div className="App">
