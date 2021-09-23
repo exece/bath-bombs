@@ -15,6 +15,7 @@ const NavBar = () => {
       justifyContent="space-between"
       p="2rem"
       alignItems="center"
+      borderBottom="1px solid white" p="1rem"
     >
       <Icon
         fill="white"
